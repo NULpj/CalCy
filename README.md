@@ -20,13 +20,13 @@ Supports common scientific operations and mathematical constants.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/scientific-calculator.git
-   cd scientific-calculator
+   git clone https://github.com/NULpj/CalCy/
+   cd Calcy
    ```
 
 2. Run the calculator:
    ```bash
-   python scientific_calculator.py
+   python main.py
    ```
 
 3. Type your expression and hit `Enter`:
